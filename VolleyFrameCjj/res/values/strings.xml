@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">VolleyFrameCjj</string>
+    <string name="JsonRequest">JsonRequest的用法</string>
+     <string name="stringRequest">StringRequest的用法</string>
+     <string name="ImageRequest">ImageRequest的用法</string>
+         <string name="ImageLoader">ImageLoader的用法</string>
+           <string name="netImageLoader">NetworkImageView的用法</string>
+           <string name="xmlRequest">xmlRequest的用法</string>
+             <string name="GsonRequest">GsonRequest的用法</string>
+</resources>
