@@ -3,4 +3,4 @@ VolleyFrame
 
 this project tell you how to use the Volley  by cjj
 
-![](https://github.com/android-cjj/VolleyFrame/raw/master/Logo/volley.gif) 
+![](http://www.apkbus.com/data/attachment/forum/201409/10/101706elrmvlk2x083x70x.gif) 
