@@ -3,4 +3,4 @@ VolleyFrame
 
 this project tell you how to use the Volley  by cjj
 
-![](http://www.apkbus.com/data/attachment/forum/201409/10/101706elrmvlk2x083x70x.gif) 
+![](http://xiequan-wordpress.stor.sinaapp.com/uploads/2014/09/2222222222222222.jpg) 
